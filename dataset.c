@@ -10,4 +10,9 @@ int main()
 	return 1;
 }
 	
-
+int secondary()
+{
+	int aa = 3;
+	return aa;
+}
+	
