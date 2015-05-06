@@ -13,7 +13,7 @@ int main()
 void message(int a)
 {
   if(a==1)
-    printf("A\n");
+    printf("C\n");
   else
     printf("B\n");
 }
