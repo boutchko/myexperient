@@ -10,6 +10,14 @@ int main()
 	return 1;
 }
 	
+void message(int a)
+{
+  if(a==1)
+    printf("A\n");
+  else
+    printf("B\n");
+}
+	
 int secondary()
 {
 	int aa = 3;
