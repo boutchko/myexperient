@@ -6,6 +6,7 @@ int main()
 
 	for(i=0; i<2; i++)
 		printf("%d\n",i);
+	// added a command
 	return 1;
 }
 	
